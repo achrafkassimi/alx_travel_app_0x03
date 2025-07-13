@@ -1,0 +1,2 @@
+# ALX Travel App 0x00
+A Django-based travel booking application with comprehensive models for listings, bookings, and reviews. This project provides a complete database modeling and seeding solution for a travel booking platform.
